@@ -1,0 +1,14 @@
+.textual {
+    border: 1px;
+    padding: 10px;
+}
+
+.hint{
+    padding: 5px;
+    display: inline-block;
+    border: 2px solid black;
+}
+
+.textual:hover {
+    box-shadow: 5px 0px 25px black;
+}
